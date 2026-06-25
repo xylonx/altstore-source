@@ -4,6 +4,7 @@
   "website": "https://github.com/xylonx/altstore-source",
   "identifier": "com.xylonx.altstore.source",
   "tintColor": "#4185A9",
+  "iconURL": "https://avatars.githubusercontent.com/u/60178952",
   "featuredApps": ["com.xylonx.readest"],
   "apps": [
     {
