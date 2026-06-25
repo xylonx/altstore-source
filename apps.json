@@ -13,7 +13,7 @@
       "subtitle": "Readest with xylonx'Readust as backend",
       "localizedDescription": "Readest fork with custom backend implemented by [Readust](https://github.com/xylonx/Readust)",
       "iconURL": "https://cdn.readest.com/images/readest-icon.png",
-      "tintColor": "",
+      "tintColor": "#4185A9",
       "category": "entertainment",
       "screenshots": [
         "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png",
