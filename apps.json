@@ -1,0 +1,49 @@
+{
+  "name": "xylonx's AltStore source",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "website": "https://github.com/xylonx/altstore-source",
+  "identifier": "com.xylonx.altstore.source",
+  "tintColor": "#4185A9",
+  "featuredApps": ["com.xylonx.readest"],
+  "apps": [
+    {
+      "name": "Readest",
+      "bundleIdentifier": "com.xylonx.readest",
+      "developerName": "xylonx",
+      "subtitle": "Readest with xylonx'Readust as backend",
+      "localizedDescription": "Readest fork with custom backend implemented by [Readust](https://github.com/xylonx/Readust)",
+      "iconURL": "https://cdn.readest.com/images/readest-icon.png",
+      "tintColor": "",
+      "category": "entertainment",
+      "screenshots": [
+        "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/annotations.png",
+        "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/tts_speak_aloud.png",
+        "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/deepl.png",
+        "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/footnote_popover.png",
+        "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wiipedia_vertical.png",
+        "https://raw.githubusercontent.com/readest/readest/main/data/screenshots/theming_dark_mode.png"
+      ],
+      "versions": [
+        {
+          "version": "0.11.12",
+          "buildVersion": "0.11.12",
+          "date": "2026-06-25T14:52:00+08:00",
+          "size": 32470423,
+          "downloadURL": "https://github.com/xylonx/altstore-source/releases/download/0.11.12-9fd85864/Readest-20260625.ipa",
+          "localizedDescription": "release: version 0.11.12"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSFaceIDUsageDescription": "Readest uses Face ID to unlock the app."
+        }
+      }
+    }
+  ],
+  "news": []
+}
