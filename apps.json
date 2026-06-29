@@ -51,5 +51,17 @@
       }
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Readest 0.11.17",
+      "identifier": "com.xylonx.readest.0.11.17",
+      "caption": "Readest 0.11.17 adds WebDAV and Google Drive sync, mobile widgets, Markdown reading, reading and PDF improvements, and more.",
+      "date": "2026-06-29T14:14:55+08:00",
+      "tintColor": "#4185A9",
+      "imageURL": "https://cdn.readest.com/images/readest-icon.png",
+      "notify": true,
+      "url": "https://github.com/xylonx/altstore-source/releases/tag/0.11.17",
+      "appID": "com.xylonx.readest"
+    }
+  ]
 }
