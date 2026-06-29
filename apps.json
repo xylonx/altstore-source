@@ -32,14 +32,19 @@
           "size": 32470423,
           "downloadURL": "https://github.com/xylonx/altstore-source/releases/download/0.11.12-9fd85864/Readest-20260625.ipa",
           "localizedDescription": "release: version 0.11.12"
+        },
+
+        {
+          "version": "0.11.17",
+          "buildVersion": "0.11.17",
+          "date": "2026-06-29T14:14:55+08:00",
+          "size": 32594428,
+          "downloadURL": "https://github.com/xylonx/altstore-source/releases/download/0.11.17/Readest-v0.11.17.ipa",
+          "localizedDescription": "- Sync: Added WebDAV and Google Drive sync for your books and reading data\n- Widgets: Added home-screen reading widgets on mobile so you can jump straight back into your book\n- Reading: You can now open and read Markdown(.md) files\n- Reading: You can select a word by double-clicking it, and search gained regex and nearby-words modes\n- Reading: Added a sticky progress bar with chapter markers, and keyboard shortcuts to fine-tune text selection\n- Library: Added a Recently Read shelf to quickly pick up where you left off, plus a separate background texture for your library\n- Text-to-Speech: Added offline voices on iOS, a setting to highlight by word or by sentence\n- PDF: Smoother pinch-zoom and panning, faster scrolling on mobile, and a new contrast option in the view menu\n- More: Customize the highlight toolbar across all books, filter exported annotations by color and style"
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.applesignin",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": ["com.apple.security.application-groups"],
         "privacy": {
           "NSFaceIDUsageDescription": "Readest uses Face ID to unlock the app."
         }
